@@ -174,9 +174,5 @@ The repository follows a structured folder organization:
 
 Contributions are welcome If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
 
-## Contact
 
-- Email: [ak956901@gmail.com](mailto:ak956901@gmail.com)
-- LinkedIn: [https://in.linkedin.com/in/ashutosh-kumar-170242189](https://in.linkedin.com/in/ashutosh-kumar-170242189)
-- Website: [Ashutosh Kumar](https://portfolio-five-rho-46.vercel.app/)
 
