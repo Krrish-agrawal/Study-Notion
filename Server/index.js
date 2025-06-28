@@ -41,7 +41,7 @@ app.use(cookieParser());
 app.use(
   cors({
     //frontend url
-    origin:"https://study-notion-seven-nu.vercel.app",
+    origin:"http://localhost:3000",
     credentials:true,
   })
 );

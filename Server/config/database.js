@@ -1,5 +1,9 @@
 //require statements
+
+console.log("[DEBUG] Loading dotenv...");
 require("dotenv").config();
+console.log("[DEBUG] MONGODB_URL =", process.env.MONGODB_URL);
+
 const mongoose=require('mongoose');
 
 
