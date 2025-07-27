@@ -106,7 +106,7 @@ To install the StudyNotion platform, follow these steps:
 
 ## Preview
 
-You can preview the StudyNotion platform at [https://studynotion-frontend.vercel.app/](https://study-notion-seven-nu.vercel.app/)
+You can preview the StudyNotion platform at [[https://studynotion-frontend.vercel.app](https://devops-project-m6jb.onrender.com/)/](h[ttps://study-notion-seven-nu.vercel.app/](https://devops-project-m6jb.onrender.com/))
 
 [![Study Notion](https://i.ibb.co/qgS4v33/work1.png)](https://study-notion-seven-nu.vercel.app/)
 
