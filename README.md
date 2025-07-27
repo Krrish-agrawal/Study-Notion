@@ -70,7 +70,7 @@ The StudyNotion platform's API is designed following the REST architectural styl
 
 To install the StudyNotion platform, follow these steps:
 
-- Clone the repository: `git clone https://github.com/ash956901/StudyNotion`
+- Clone the repository: `https://github.com/Krrish-agrawal/Study-Notion`
 - Navigate to the project directory: `cd StudyNotion`
 - Install backend dependencies: `cd Server && npm install`
 - Install frontend dependencies: `cd .. && npm install`
