@@ -33,7 +33,6 @@ The front end of StudyNotion has all the necessary pages that an ed-tech platfor
 - **Homepage**: This page will have a brief introduction to the platform, as well as links to the course list and user details.
 - **Course List**: This page will have a list of all the courses available on the platform, along with their descriptions and ratings.
 - **Wishlist**: This page will display all the courses that a student has added to their wishlist.
-- **Cart Checkout**: This page will allow the user to complete the course purchase.
 - **Course Content**: This page will have the course content for a particular course, including videos, and other related material.
 - **User Details**: This page will have details about the student's account, including their name, email, and other relevant information.
 - **User Edit Details**: This page will allow the student to edit their account details.
@@ -58,7 +57,6 @@ The back end of StudyNotion provides a range of features and functionalities, in
 
 - **User authentication and authorization**: Students and instructors can sign up and log in to the platform using their email addresses and password. The platform also supports OTP (One-Time Password) verification and forgot password functionality for added security.
 - **Course management**: Instructors can create, read, update, and delete courses, as well as manage course content and media. Students can view and rate courses.
-- **Payment Integration**: Students will purchase and enrol on courses by completing the checkout flow that is followed by Razorpay integration for payment handling.
 - **Cloud-based media management**: StudyNotion uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
 - **Markdown formatting**: Course content in document format is stored in Markdown format, which allows for easier display and rendering on the front end.
 
